@@ -1,3 +1,3 @@
 # hello-world
-test repository
+test reository
 yo no soy changomono soy elchangomono
